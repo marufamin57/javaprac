@@ -8,8 +8,13 @@ public class b {
         b2.radius=405;
         b2.color="sksls";
         b2.print();
-        ball2 b3= new ball2(50, "jkl");
+        ball2 b3= new ball2(5000, "jkl");
         b3.print();
+        ball2 b4= new ball2();
+        b4.p();
+        b4.print();
+        ball2 b5= new ball2(100);
+        b5.print();
     }
 }
 
@@ -31,12 +36,23 @@ class ball {
 class ball2 {
     double rad;
     String col;
-   public ball2(double rad,String col){
-        this.rad=rad;
-        this.col=col;
+   public ball2(double r,String c){
+        rad=r;
+        col=c;
     }
     void print(){
         System.out.println("radius: "+ rad);
         System.out.println("color: "+ col);
+    }
+    public ball2(){
+        // rad=1;
+        // col="default";
+        this(1,"default");
+    }
+    public ball2(double r){
+        this(r,"2nd is missing");
+    }
+    void p(){
+        System.out.println("noo");
     }
 }

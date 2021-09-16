@@ -31,14 +31,14 @@ public class snake3 extends PApplet {
         cy = random(w / 2, s - w / 2);
         score=0;
     }
-    public boolean iscrossed(){
-        for(int i=0;i<x.size()-1;i++){
-            if(x.lastElement()==x.get(i) && y.lastElement()==x.get(i)){
-                return true;
-            }
-        }
-        return false;
-    }
+    // public boolean iscrossed(){
+    //     for(int i=0;i<x.size()-1;i++){
+    //         if(x.lastElement()==x.get(i) && y.lastElement()==x.get(i)){
+    //             return true;
+    //         }
+    //     }
+    //     return false;
+    // }
     public void update(){
         for(int i=0;i<x.size()-1;i++){
             x.set(i, x.get(i+1));
@@ -132,7 +132,7 @@ public class snake3 extends PApplet {
             x.set(x.size()-1, x.lastElement()+speedx.lastElement());
             y.set(y.size()-1, y.lastElement()+speedy.lastElement());
 
-            if (x.lastElement() < 0 || x.lastElement() > s || y.lastElement() < 0 || y.lastElement() > s || iscrossed()) {
+            if (x.lastElement() < 0 || x.lastElement() > s || y.lastElement() < 0 || y.lastElement() > s) {
                 gameover();
             }
 
