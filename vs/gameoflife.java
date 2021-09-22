@@ -111,19 +111,11 @@ public class gameoflife extends PApplet {
     }
     boolean setbomb() {
         float temp = random(1);
-        if (round(temp) == 1) {
-            return true;
-        } else {
-            return false;
-        }
+        return (round(temp)==1)?true:false;
     }
 
     int bool2int(Boolean a) {
-        if (a) {
-            return 1;
-        } else {
-            return 0;
-        }
+        return (a)?1:0;
     }
     public void mouseClicked(){
         start();
