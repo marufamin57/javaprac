@@ -18,7 +18,74 @@ public class date {
         // switch1(x);
         // System.out.println(minimum(500, 10));
         // zxc(50);
-        shortfor();
+        // shortfor1();
+        // breakprac();
+        // System.out.println(sumrec(50));
+        System.out.println(factorialnr(21));
+    }
+    static double factorialnr(int n){
+        double f=1;
+        if (n==0) {
+            return f;
+        }
+        int i=1;
+        while (i<=n) {
+            f=f*i;
+            i++;
+        }
+        return f;
+    }
+    static long factorialrec(Long n){
+        long f=1;
+        if (n==0) {
+            return f;
+        }
+        f=n*factorialrec(n-1);
+        return f;
+    }
+    static int sumrec(int n){
+        int f=0;
+        if (n<0) {
+            return -1;
+        }
+        if (n==0) {
+            return f;
+        }
+        f=n+sumrec(n-1);
+        return f;
+    }
+    static void breakprac(){
+        int i=0;
+        int sum=0;
+        while(true){
+            if (i==5) {
+                break;
+            }
+            System.out.println(i);
+            i++;
+        }
+        lebel: for(int k=0;k<10;k++){
+            for(int j=0;j<10;j++){
+                if(k==1 && j==8){
+                    break lebel;
+                }
+                sum++;
+            }
+        }
+        System.out.println(sum);
+    }
+    static void shortfor1(){
+        int[] c= {1,2,3};
+        int[][] c1= {{1,2,3},{4,5,6}};
+        for(int i=0; i<c.length;i++){
+            System.out.print("  "+c[i]);
+        }
+        for (int[] i : c1) {
+            System.out.println(" ");
+            for (int j : i) {
+                System.out.print("  "+j);
+            }
+        }
     }
     static void shortfor(){
         int[] arr={1,2,3,4,5};

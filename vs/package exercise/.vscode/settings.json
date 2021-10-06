@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\maruf\\Desktop\\lab\\library\\client-combined-3.141.59.jar",
+        "c:\\Users\\maruf\\Desktop\\lab\\library\\byte-buddy-1.8.15.jar",
+        "c:\\Users\\maruf\\Desktop\\lab\\library\\commons-exec-1.3.jar",
+        "c:\\Users\\maruf\\Desktop\\lab\\library\\guava-25.0-jre.jar",
+        "c:\\Users\\maruf\\Desktop\\lab\\library\\okhttp-3.11.0.jar",
+        "c:\\Users\\maruf\\Desktop\\lab\\library\\okio-1.14.0.jar",
+        "c:\\Users\\maruf\\Desktop\\lab\\library\\mining.jar"
+    ]
+}
