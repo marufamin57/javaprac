@@ -2,6 +2,7 @@ package nestedclass;
 
 public class anonymous {
 public static void main(String[] args) {
+	String opString="test";
 	int z= new fool(400,"789000") {
 		int go() {
 			return q1.length();
@@ -11,6 +12,7 @@ public static void main(String[] args) {
 	qwe q=new qwe() {
 		public void zxc() {
 			System.out.println("123456");
+			System.out.println(opString);
 		}
 	};
 	q.zxc();

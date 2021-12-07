@@ -5,7 +5,6 @@ import java.util.Arrays;
 import java.util.List;
 
 import interfaceprac.int1;
-import sun.jvm.hotspot.runtime.StaticBaseConstructor;
 
 public class wildcard {
 	public static void main(String[] args) {

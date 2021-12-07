@@ -1,0 +1,51 @@
+show databases ;
+use table1;
+
+create view test as
+    select * from test1
+where age>50;
+show tables ;
+select * from test;
+# create a variable
+select @avg1:=avg(age) from test1;
+
+select id,gender,age,
+case when age>@avg1 then "above average"
+when age<@avg1 then "below average"
+else "equal to avg"
+end as average_test
+from test1;
+
+create procedure filter(age1 double)
+begin
+    select * from test1
+        where age=age1;
+end;
+call filter(50);
+show processlist ;
+show procedure status ;
+
+create procedure insert1(
+f varchar(5),
+l varchar(5),
+age double,
+g varchar(1),
+id int(10)
+)
+begin
+    insert into test1 (first_name, last_name, age, gender, country_id) VALUES (f,l,age,g,id);
+end;
+
+desc test1;
+
+create function getage(id int) returns double
+    deterministic
+begin
+    declare age1 double;
+    select age into age1 from test
+        where id=id;
+    return age1;
+end;
+ DELIMITER ;
+
+select getage(500);
