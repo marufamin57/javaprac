@@ -29,7 +29,6 @@ public class genericsmethod {
 				temp= temp+t.doubleValue();
 			}
 			return temp;
-		
 	}
 
 	static double boundedgen(List<? extends Number> z) {

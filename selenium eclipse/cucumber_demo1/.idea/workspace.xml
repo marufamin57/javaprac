@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9f88400-f8ba-4cc3-93ca-65c4e10bc921" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../library/cucumber-junit-7.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../presets/pom.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/cucumber.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_test/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_test/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_test/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_test/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_test/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_test/src/test/java/steps/step1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_test/src/test/resources/cucumber.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_test/src/test/resources/features/belly.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../a/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../a/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../a/a/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../a/a/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../a/a/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../a/a/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../a/a/src/a/student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library/byte-buddy-1.8.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library/client-combined-3.141.59.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library/guava-25.0-jre.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library/okhttp-3.11.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library/okio-1.14.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_demo/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_demo/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_demo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_demo/src/classes/add_numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_demo/src/feature/sum_tests.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac1/src/genericsdemo/genericsmethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prac1/src/genericsdemo/genericsmethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea/demo1/target/classes/org/example/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea/demo1/target/classes/org/example/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea/demo1/target/test-classes/base/base.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea/demo1/target/test-classes/base/base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea/demo1/target/test-classes/org/example/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea/demo1/target/test-classes/org/example/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea/demo1/target/test-classes/page/home.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea/demo1/target/test-classes/page/home.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea/demo1/target/test-classes/runner/run.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea/demo1/target/test-classes/runner/run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea/demo1/target/test-classes/steps/hometest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea/demo1/target/test-classes/steps/hometest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea/demo1/target/test-classes/testpage/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea/demo1/target/test-classes/testpage/test1.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="224HlAW0ppxWj9Oqrn7A1jPjzPJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maruf\Desktop\lab\selenium eclipse\cucumber_demo1\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RunCucumberTest">
+    <configuration name="Scenario: a few  cukes" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/belly.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="cucumber_demo1" />
+      <option name="NAME_FILTER" value="^a few  cukes$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^a few  cukes$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: a few  cukes" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: a few cukes" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/belly.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="cucumber_demo1" />
+      <option name="NAME_FILTER" value="^a few cukes$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^a few cukes$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: a few cukes" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: a few cup" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/belly.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="cucumber_demo1" />
+      <option name="NAME_FILTER" value="^a few cup$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^a few cup$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: a few cup" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: a few cups" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/belly.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="cucumber_demo1" />
+      <option name="NAME_FILTER" value="^a few cups$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^a few cups$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: a few cups" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCucumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucumber_demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.RunCucumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunCucumberTest" />
+        <item itemvalue="Cucumber Java.Scenario: a few cup" />
+        <item itemvalue="Cucumber Java.Scenario: a few cups" />
+        <item itemvalue="Cucumber Java.Scenario: a few  cukes" />
+        <item itemvalue="Cucumber Java.Scenario: a few cukes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9f88400-f8ba-4cc3-93ca-65c4e10bc921" name="Changes" comment="" />
+      <created>1639090093120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639090093120</updated>
+      <workItem from="1639090094907" duration="4042000" />
+      <workItem from="1639189300897" duration="2401000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
