@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="Suite1" verbose="1" >
+<parameter name="str1" value="qwertyuiop"></parameter>
+<parameter name="sum" value="123"></parameter>
+  <test name="Nopackage" >
+    <classes>
+       <class name="parameter_demo.p1" />
+    </classes>
+  </test>
+ 
+</suite>
