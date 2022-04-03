@@ -5,138 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9f88400-f8ba-4cc3-93ca-65c4e10bc921" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../library/apiguardian-api-1.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/async-http-client-2.12.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/async-http-client-netty-utils-2.12.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/auto-common-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/auto-service-1.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/auto-service-annotations-1.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/byte-buddy-1.12.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/checker-qual-3.12.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/create-meta-6.0.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/cucumber-expressions-13.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/cucumber-gherkin-7.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/cucumber-gherkin-messages-7.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/cucumber-plugin-7.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/datatable-7.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/docstring-7.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/error_prone_annotations-2.7.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/failsafe-2.4.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/failureaccess-1.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/guava-31.0.1-jre.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/html-formatter-17.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/j2objc-annotations-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/jackson-annotations-2.13.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/jackson-core-2.13.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/jackson-databind-2.13.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/jakarta.activation-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/jcommander-1.78.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/jquery-3.5.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/jsr305-3.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/jtoml-2.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/messages-17.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/netty-buffer-4.1.69.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/netty-codec-4.1.69.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/netty-codec-http-4.1.69.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/netty-codec-socks-4.1.60.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/netty-common-4.1.69.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/netty-handler-4.1.69.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/netty-handler-proxy-4.1.60.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/netty-reactive-streams-2.0.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/netty-resolver-4.1.69.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/netty-transport-4.1.69.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/netty-transport-native-epoll-4.1.69.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/netty-transport-native-kqueue-4.1.69.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/netty-transport-native-unix-common-4.1.69.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/opentelemetry-api-1.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/opentelemetry-api-metrics-1.9.0-alpha.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/opentelemetry-context-1.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/opentelemetry-exporter-logging-1.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/opentelemetry-sdk-1.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/opentelemetry-sdk-common-1.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/opentelemetry-sdk-extension-autoconfigure-1.9.0-alpha.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/opentelemetry-sdk-extension-autoconfigure-spi-1.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/opentelemetry-sdk-logs-1.9.0-alpha.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/opentelemetry-sdk-metrics-1.9.0-alpha.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/opentelemetry-sdk-trace-1.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/opentelemetry-semconv-1.9.0-alpha.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/reactive-streams-1.0.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/selenium-api-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/selenium-chrome-driver-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/selenium-chromium-driver-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/selenium-devtools-v85-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/selenium-devtools-v94-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/selenium-devtools-v95-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/selenium-devtools-v96-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/selenium-edge-driver-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/selenium-firefox-driver-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/selenium-firefox-xpi-driver-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/selenium-http-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/selenium-ie-driver-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/selenium-java-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/selenium-json-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/selenium-opera-driver-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/selenium-remote-driver-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/selenium-safari-driver-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/selenium-support-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/slf4j-api-1.7.30.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../library/tag-expressions-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pom.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../presets/cucumberpom for old style.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../presets/cucumberpom new style.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-java-skeleton-main/.github/renovate.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-java-skeleton-main/.github/workflows/build.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-java-skeleton-main/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-java-skeleton-main/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-java-skeleton-main/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-java-skeleton-main/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-java-skeleton-main/LICENCE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-java-skeleton-main/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-java-skeleton-main/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-java-skeleton-main/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-java-skeleton-main/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-java-skeleton-main/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-java-skeleton-main/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-java-skeleton-main/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-java-skeleton-main/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-java-skeleton-main/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-java-skeleton-main/src/main/java/io/cucumber/skeleton/Belly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-java-skeleton-main/src/test/java/io/cucumber/skeleton/RunCucumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-java-skeleton-main/src/test/java/io/cucumber/skeleton/StepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-java-skeleton-main/src/test/resources/io/cucumber/skeleton/belly.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-java-skeleton-main/src/test/resources/junit-platform.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cucumber_demo1/cucumber_demo1/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runner/RunCucumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/password.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/setup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/step1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/belly.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/password.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber_test/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber_test/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber_test/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber_test/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber_test/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber_test/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber_test/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber_test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber_test/src/test/java/runner/RunCucumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../selenium idea/demo1/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../selenium idea/demo1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../selenium idea/demo1/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../selenium idea/demo1/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../selenium idea/demo1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/pascaltriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest1/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../apitest1/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../apitest1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest1/src/test/java/api1/get1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apitest1/src/test/java/api1/get1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest1/test-output/Default suite/Default test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../apitest1/test-output/Default suite/Default test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest1/test-output/Default suite/Default test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../apitest1/test-output/Default suite/Default test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest1/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../apitest1/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest1/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../apitest1/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest1/test-output/junitreports/TEST-api1.get1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../apitest1/test-output/junitreports/TEST-api1.get1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest1/test-output/old/Default suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/../apitest1/test-output/old/Default suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest1/test-output/old/Default suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/../apitest1/test-output/old/Default suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest1/test-output/old/Default suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/../apitest1/test-output/old/Default suite/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest1/test-output/old/Default suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../apitest1/test-output/old/Default suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest1/test-output/old/Default suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/../apitest1/test-output/old/Default suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest1/test-output/old/Default suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../apitest1/test-output/old/Default suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest1/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../apitest1/test-output/testng-results.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +58,20 @@
       <recent name="C:\Users\maruf\Desktop\lab\selenium eclipse\cucumber_demo1\src\test\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Feature: password">
+  <component name="RunManager" selected="Application.pascaltriangle">
+    <configuration name="pascaltriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.pascaltriangle" />
+      <module name="cucumber_demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Feature: password" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/password.feature" />
@@ -184,26 +81,6 @@
       <option name="PROGRAM_PARAMETERS" value="--plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
       <shortenClasspath name="NONE" />
       <option name="SUGGESTED_NAME" value="Feature: password" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: a few cup" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/belly.feature" />
-      <option name="GLUE" value="steps" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="cucumber_demo1" />
-      <option name="NAME_FILTER" value="^a few cup$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^a few cup$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: a few cup" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -272,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pascaltriangle" />
         <item itemvalue="Cucumber Java.Feature: password" />
         <item itemvalue="JUnit.RunCucumberTest" />
         <item itemvalue="Cucumber Java.Scenario: " />
         <item itemvalue="Cucumber Java.Scenario: login" />
-        <item itemvalue="Cucumber Java.Scenario: a few cup" />
       </list>
     </recent_temporary>
   </component>
@@ -290,6 +167,7 @@
       <updated>1639090093120</updated>
       <workItem from="1639090094907" duration="4042000" />
       <workItem from="1639189300897" duration="11240000" />
+      <workItem from="1648173485595" duration="1824000" />
     </task>
     <task id="LOCAL-00001" summary="practicing cucumber">
       <created>1639191863209</created>
